@@ -7,8 +7,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: -moz-linear-gradient(align-items);
-  }
+    background-color: hsl(309, 52%, 75%);
+    }
   
   .calculator {
     border: 1px solid hsl(0, 77%, 57%);
