@@ -11,11 +11,10 @@ body {
   
   .calculator {
     border: 1px solid hsl(0, 77%, 57%);
-    width: 300px;
+    width: 500px;
     text-align: center;
     padding: 10px;
   }
-
   .number {
     background-color: #ef23d0; /* Cor de fundo azul */
     color: hsl(108, 94%, 49%); /* Cor do texto branca */
