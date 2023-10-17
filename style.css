@@ -10,7 +10,7 @@ body {
   }
   
   .calculator {
-    border: 1px solid #000;
+    border: 1px solid hsl(0, 77%, 57%);
     width: 300px;
     text-align: center;
     padding: 10px;
