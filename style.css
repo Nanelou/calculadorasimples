@@ -1,4 +1,11 @@
 /* style.css */
+.imagem-cabecalho {
+  width: 100px; /* Largura da imagem */
+  height: 100px; /* Altura da imagem */
+  border: 2px solid hsl(249, 90%, 24%); /* Borda preta com 2px de largura */
+  border-radius: 50%; /* Borda arredondada para criar um círculo */
+  background-color: #eee; /* Cor de fundo do círculo */
+}
 
 body {
     font-family: Arial, sans-serif;
