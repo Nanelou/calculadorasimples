@@ -16,8 +16,8 @@ body {
     text-align: center;
     padding: 10px;
   }
-  h1 {
-    background-color: blue;
+  h1 { 
+    background-color: #080a7d;
   }
   .number {
     background-color: #ef23d0; /* Cor de fundo azul */
