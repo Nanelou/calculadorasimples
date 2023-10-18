@@ -4,9 +4,7 @@
   height: 300px; /* Altura da imagem */
   /*border: 2px solid hsl(249, 90%, 24%); Borda preta com 2px de largura */
   /*border-radius: 00%;  Borda arredondada para criar um círculo */
- /* background-color: #eee; /* Cor de fundo do círculo */
-}
-
+ /* background-color: #eee; /* Cor de fundo do círculo */}
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -14,21 +12,20 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(309, 52%, 75%);
+    background-color: hwb(125 5% 25%);
       background-image: url('img/WhatsApp\ Image\ 2023-10-05\ at\ 14.12.07.jpeg');
       background-size: cover; /* Redimensiona a imagem para cobrir toda a área do elemento pai */
       background-repeat: no-repeat; /* Evita que a imagem seja repetida */
       background-attachment: fixed; /* Mantém a imagem fixa à medida que você rola a página */
     }
     
-   
     h1 { 
       background-color: #080a7d;
-      color: aqua;
+      color: #ebeeee;
     }
   
   .calculator {
-    border: 2px solid hsl(0, 77%, 57%);
+    border: 8px solid hsl(0, 77%, 57%);
     width: 600px;
     text-align: center;
     padding: 10px;
