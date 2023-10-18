@@ -13,7 +13,7 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(125, 87%, 40%);
+    background-color: hsl(120, 3%, 7%);
       background-size: cover; /* Redimensiona a imagem para cobrir toda a área do elemento pai */
       background-repeat: no-repeat; /* Evita que a imagem seja repetida */
       background-attachment: fixed; /* Mantém a imagem fixa à medida que você rola a página */
