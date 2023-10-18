@@ -12,20 +12,21 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hwb(125 5% 25%);
+    background-color: hsl(125, 87%, 40%);
       background-image: url('img/WhatsApp\ Image\ 2023-10-05\ at\ 14.12.07.jpeg');
       background-size: cover; /* Redimensiona a imagem para cobrir toda a área do elemento pai */
       background-repeat: no-repeat; /* Evita que a imagem seja repetida */
       background-attachment: fixed; /* Mantém a imagem fixa à medida que você rola a página */
     }
     
+   
     h1 { 
       background-color: #080a7d;
-      color: #ebeeee;
+      color: aqua;
     }
   
   .calculator {
-    border: 8px solid hsl(0, 77%, 57%);
+    border: 6px solid hsl(300, 77%, 57%);
     width: 600px;
     text-align: center;
     padding: 10px;
