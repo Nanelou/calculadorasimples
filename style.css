@@ -21,7 +21,7 @@
     }
   
   .calculator {
-  border: 2px solid hsl(300, 77%, 57%);
+  border: 2px solid hsl(25, 88%, 45%);
   width: 800px; /* Largura aumentada para 800 pixels */
   height: 600px; /* Altura aumentada para 600 pixels */
   margin: 0 auto; /* Centraliza a calculadora horizontalmente na página */
