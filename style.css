@@ -26,14 +26,12 @@
   height: 600px; /* Altura aumentada para 600 pixels */
   margin: 0 auto; /* Centraliza a calculadora horizontalmente na página */
   text-align: center;
-    padding: 10px;
+    padding-top: 10px;
     background-image: url('img/WhatsApp\ Image\ 2023-10-05\ at\ 14.12.07.jpeg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-repeat: no-repeat; /* Evita que a imagem seja repetida */
     }
     
-  
- 
   .number {
     background-color: #ef23d0; /* Cor de fundo azul */
     color: hsl(108, 94%, 49%); /* Cor do texto branca */
